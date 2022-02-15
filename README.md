@@ -1,4 +1,5 @@
-https://i.imgur.com/PdhKVOB.png
+![image](https://i.imgur.com/PdhKVOB.png)
+
 # dev-environment-lab
 
 ## OS
